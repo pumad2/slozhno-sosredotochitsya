@@ -3,6 +3,7 @@
   --header-title-color: #DB00FF;
   --title-decor-bg-color: #FF0070;
   --title-decor-color: #000028;
+  --bg-color: #000028;
   --shadow-color: #FF0070;
   --text-color: #F1B2CE;
   --border-hover-color: rgba(255, 0, 112, 0.4);
@@ -10,7 +11,7 @@
 
 .theme_dark.page {
   background-image: url(../images/cover-image-dark.png);
-  background-color: #000028;
+  background-color: var(--bg-color);
 }
 
 .theme_dark .rec::before {
@@ -27,6 +28,7 @@
     --header-title-color: #DB00FF;
     --title-decor-bg-color: #FF0070;
     --title-decor-color: #000028;
+    --bg-color: #000028;
     --shadow-color: #FF0070;
     --text-color: #F1B2CE;
     --border-hover-color: rgba(255, 0, 112, 0.4);
@@ -34,7 +36,7 @@
 
   .page {
     background-image: url(../images/cover-image-dark.png);
-    background-color: #000028;
+    background-color: var(--bg-color);
   }
 
   .rec::before {
