@@ -1,1 +1,1 @@
-https://github.com/pumad2/slozhno-sosredotochitsya.git
+https://github.com/pumad2/slozhno-sosredotochitsya-fd.git
