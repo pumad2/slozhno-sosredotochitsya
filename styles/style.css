@@ -21,7 +21,7 @@
   color: var(--article-title-color);
 }
 
-.rec { 
+.rec {
   position: absolute;
   place-self: start end;
   padding-block-start: var(--padding);
