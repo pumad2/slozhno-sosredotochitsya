@@ -10,6 +10,7 @@
 
 .theme_dark.page {
   background-image: url(../images/cover-image-dark.png);
+  background-color: #000028;
 }
 
 .theme_dark .rec::before {
@@ -33,6 +34,7 @@
 
   .page {
     background-image: url(../images/cover-image-dark.png);
+    background-color: #000028;
   }
 
   .rec::before {
